@@ -1,0 +1,28 @@
+body {
+  font-family: "Caveat", cursive;
+  font-family: "Dancing Script", cursive;
+  font-family: "Pacifico", cursive;
+  background-color: black;
+  color: white;
+}
+
+.about-col {
+  background-color: black;
+}
+h2 {
+  font-size: 70px;
+}
+h3 {
+  font-size: 50px;
+  color: orangered;
+}
+p {
+  color: white;
+}
+.card{
+    background-color: black;
+}
+.card-title{
+    color: orangered;
+}
+
